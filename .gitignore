@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.DS_Store
+
+# Personal robot settings
+robot_ip.txt
+robot_sn.txt
+aes_key.txt
+
+# Music is not shared (add your own song.mp3)
+*.mp3
+*.wav
+dance.sb3
